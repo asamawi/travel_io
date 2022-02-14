@@ -18,7 +18,7 @@ app_license = "MIT"
 
 # include js, css files in header of web template
 web_include_css = "/assets/travel_io/css/travel_io.css"
-web_include_js = ["/assets/travel_io/js/travel_io.js", "/assets/travel_io/js/jquery.scrollTo.min.js", "/assets/travel_io/js/jquery.singlePageNav.min.js"]
+web_include_js = ["/assets/travel_io/js/travel_io.js", "/assets/travel_io/js/jquery.scrollTo.min.js", "/assets/travel_io/js/jquery.singlePageNav.min.js", "/assets/travel_io/js/slick.min.js"]
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "travel_io/public/scss/website"

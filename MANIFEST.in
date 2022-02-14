@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include travel_io *.css
+recursive-include travel_io *.csv
+recursive-include travel_io *.html
+recursive-include travel_io *.ico
+recursive-include travel_io *.js
+recursive-include travel_io *.json
+recursive-include travel_io *.md
+recursive-include travel_io *.png
+recursive-include travel_io *.py
+recursive-include travel_io *.svg
+recursive-include travel_io *.txt
+recursive-exclude travel_io *.pyc

@@ -3,8 +3,8 @@
 Journey Template 
 http://www.templatemo.com/tm-511-journey
 
-Primary color (light blue)  : #f6c72e
-Highlight color (pink)		: #474746
+Primary color (Saffron)  : #f6c72e
+Highlight color (Makara)		: #827963
 --------------------------------------
 
 */
@@ -39,12 +39,12 @@ p:last-child { margin-bottom: 0; }
 .tm-text-gray { color: #787676; }
 
 .tm-text-highlight {
-    color: #474746;
+    color: #827963;
     font-weight: 600;
 }
 
 .tm-bg-primary { background: #f6c72e; }
-.tm-bg-highlight { background: #474746; }
+.tm-bg-highlight { background: #827963; }
 
 .btn-primary {
     background: #f6c72e;
@@ -53,7 +53,7 @@ p:last-child { margin-bottom: 0; }
     outline: none;
 }
 
-.btn-primary:hover { background: #474746; }
+.btn-primary:hover { background: #827963; }
 .tm-top-bar .navbar-expand-lg .navbar-nav .nav-link { padding: 50px 35px; }
 
 .tm-top-bar {
@@ -154,7 +154,7 @@ p:last-child { margin-bottom: 0; }
 .tm-down-arrow-link:hover,
 .tm-down-arrow-link:focus {
     color: white;
-    background-color: #474746;
+    background-color: #827963;
 }
 
 /* Search form */
@@ -190,12 +190,12 @@ label { font-weight: 700; }
 
 .tm-btn-white { background: white; }
 .tm-btn-white-primary { color: #f6c72e; }
-.tm-btn-white-highlight { color: #474746; }
+.tm-btn-white-highlight { color: #827963; }
 
 .tm-btn-white-primary:hover,
 .tm-btn-white-primary:focus,
 .tm-btn-white-primary:active {
-    background: #474746;
+    background: #827963;
     color: white;
 }
 
@@ -211,7 +211,7 @@ label { font-weight: 700; }
 .tm-btn-search:hover,
 .tm-btn-search:active,
 .tm-btn-search:focus {
-    background: #474746;
+    background: #827963;
 }
 
 .tm-bg-gray { background-color: #efefef; }
@@ -280,7 +280,7 @@ label { font-weight: 700; }
 
 .tm-slideshow-highlight .slick-prev:hover, 
 .tm-slideshow-highlight .slick-next:hover {
-    background: #474746;
+    background: #827963;
 }
 
 .slick-prev {
@@ -358,7 +358,7 @@ label { font-weight: 700; }
 
 .tm-tab-link:hover,
 .tm-tab-link.active {
-    background: #474746;
+    background: #827963;
 }
 
 .tab-pane {
@@ -418,7 +418,7 @@ label { font-weight: 700; }
     transition: all 0.3s ease;
 }
 
-.tm-recommended-price-box:hover { background-color: #474746; }
+.tm-recommended-price-box:hover { background-color: #827963; }
 
 .tm-recommended-price {
     color: white;
@@ -454,7 +454,7 @@ footer p { color: white; }
     font-weight: 600;
 }
 
-.tm-footer-text-highlight:hover { color: #474746; }
+.tm-footer-text-highlight:hover { color: #827963; }
 
 .tm-contact-form {
     background: white;
